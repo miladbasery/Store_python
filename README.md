@@ -31,7 +31,7 @@ Store: Holds the master inventory list and provides lookup methods.
 
 CartItem / Cart: Tracks customer selections independently before payment processing.
 
-##⚙️ Requirements & Installation
+## ⚙️ Requirements & Installation
 This project runs completely on Python's standard library and requires no external dependencies.
 
 Ensure you have Python 3.10 or higher installed.
